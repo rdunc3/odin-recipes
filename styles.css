@@ -1,17 +1,23 @@
 * {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-sizing: border-box;
+    background-color: antiquewhite;
 }
 
 h1 {
     color: purple;
     background-color: yellow;
     font-weight: bold;
+    border: 2px solid black;
+    padding: 5px;
 }
 
 li {
     color: darkgoldenrod;
+    margin: 10px;
 }
 
 p {
-    background-color: beige;
+    color: whitesmoke;
+    background-color: darkmagenta;
 }
